@@ -3,7 +3,7 @@
 
 import java.util.*;
 
-public class QueueImplement{
+public class queueImplement{
     public static void main(String[] args){
         Scanner scan = new Scanner(System.in);
         System.out.println("Array Queue Test\n");
